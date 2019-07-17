@@ -6,6 +6,12 @@
     z-index: 9999;
     */
 }
+#navigation{
+    float: right;
+}
+#navigation a{
+    font-size: 25px;
+}
 #inner-header{
     position:
 }
@@ -14,23 +20,30 @@
 }
 #services{
     /*background-color: gold;*/
-    margin-top: 10px;
+    margin-top: 30px;
     margin-bottom: 20px;
 }
 #past-work{
     margin-top: 10px;
+    margin-bottom: 20px;
     /*background-color: red;*/
 }
-#navigation{
-    float: right;
+#our-story{
+    margin-top: 10px;
+    margin-bottom:20px;
 }
-#navigation a{
-    font-size: 25px;
+#meet-the-team{
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
+
 #footer{
     background-color: rgba(190,190,190,.6);
     color: white;
 }
 body{
     /*background-color: gold;*/
+}
+.display-2{
+    text-shadow: 1px 1px 5px gray;
 }
